@@ -23,8 +23,4 @@ test:
 production:
   adapter: postgresql
   encoding: Unicode
-  adapter: mysql2 
-  pool: 25 
-  encoding: utf8mb4 
-  host: localhost 
-  username: root 
+  
